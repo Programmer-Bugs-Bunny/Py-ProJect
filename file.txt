@@ -1,9 +1,0 @@
-卷 文档 的文件夹 PATH 列表
-卷序列号为 0E44-1194
-E:.
-├─.idea
-│  └─inspectionProfiles
-├─Django-Project
-├─Flask-Project
-├─Py-Note
-└─Script-Project
