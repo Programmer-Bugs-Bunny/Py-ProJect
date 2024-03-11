@@ -35,7 +35,7 @@ git commit -m "提交消息"
 git push origin <分支名>
 ```
 
-强制提交
+强制提交（不建议使用）
 ```bash
 git push -f origin <分支名>
 ```
