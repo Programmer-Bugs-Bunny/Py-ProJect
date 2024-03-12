@@ -35,6 +35,13 @@ git commit -m "提交消息"
 git push origin <分支名>
 ```
 
+使用密钥提交
+```bash
+git -u push origin <分支名>
+# 登陆时密码填写密钥即可
+# 8HwqgT3yQn6vnf71G8Zv
+```
+
 强制提交（不建议使用）
 ```bash
 git push -f origin <分支名>
